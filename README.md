@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amruth Pillai</h1>
-<h3 align="center">Python Developer.data scientist. Writer.</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
+<h3 align="center">Python Developer . data scientist . Writer.</h3>
 
 - 👋 Hi, I’m @M-Tinati
 - 👀 I’m interested in python
