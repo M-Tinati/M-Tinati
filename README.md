@@ -18,4 +18,4 @@ You can click the Preview link to take a look at your changes.
 a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 
 <h3 align="left">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/](https://www.buymeacoffee.com/mohammadtinati)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amruthpillai" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/mohammadtinati" <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amruthpillai" /></a></p><br><br>
