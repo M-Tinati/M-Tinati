@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
             html
         </td>
         <td>
-            <img src="640px-HTML5_logo_and_wordmark.svg.png" alt="">
+            <img src="[640px-HTML5_logo_and_wordmark.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png)" alt="">
         </td>
     <tr>
         <td>
