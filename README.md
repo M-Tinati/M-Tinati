@@ -37,7 +37,8 @@ You can click the Preview link to take a look at your changes.
            css
         </td>
         <td>
-            <img src="CSS3_logo_and_wordmark.svg.png" alt="">
+            <img style=" width: 100px;
+            height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="">
         </td>
     </tr>
     <tr>
@@ -45,6 +46,7 @@ You can click the Preview link to take a look at your changes.
            js
         </td>
         <td>
-            <img src="javascript_logo.png" alt="">
+            <img style=" width: 100px;
+            height: 100px;" src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="">
         </td>
     </tr>
