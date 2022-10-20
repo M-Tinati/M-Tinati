@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
-<h3 align="center">Python Developer . data scientist . Writer.</h3>
+<h3 align="center">Python Developer . Data Scientist . front End developer.</h3>
 
 - 👋 Hi, I’m @M-Tinati
 - 👀 I’m interested in python
@@ -20,3 +20,30 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohammadtinati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amruthpillai" /></a></p><br><br>
 
+<table>
+    <tr>
+        front end
+    </tr>
+    <tr>
+        <td>
+            html
+        </td>
+        <td>
+            <img src="640px-HTML5_logo_and_wordmark.svg.png" alt="">
+        </td>
+    <tr>
+        <td>
+           css
+        </td>
+        <td>
+            <img src="CSS3_logo_and_wordmark.svg.png" alt="">
+        </td>
+    </tr>
+    <tr>
+        <td>
+           js
+        </td>
+        <td>
+            <img src="javascript_logo.png" alt="">
+        </td>
+    </tr>
