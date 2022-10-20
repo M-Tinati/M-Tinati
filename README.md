@@ -14,38 +14,30 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/mohammadtinati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruthpillai" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-
+<h3 align="left">Languages and Tools:</h3> 
 <table>
-    <tr>
-        front end
-    </tr>
-    <tr>
+    <tr><td>Python</td>
         <td>
-            html
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> 
         </td>
+    <tr><td>Html</td>
         <td>
-            <img style=" width: 100px;
-            height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" width="60" height="60"/> 
         </td>
-    <tr>
+    </tr><td>Css</td>
+    <td>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="50" height="60"/> 
+    </td>
+</tr>
+    </tr><td>Javascript</td>
         <td>
-           css
-        </td>
-        <td>
-            <img style=" width: 100px;
-            height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="55" height="55"/> 
         </td>
     </tr>
-    <tr>
-        <td>
-           js
-        </td>
-        <td>
-            <img style=" width: 100px;
-            height: 100px;" src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="">
-        </td>
-    </tr>
+    
+</table>
+
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohammadtinati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammadtinati" /></a></p><br><br>
