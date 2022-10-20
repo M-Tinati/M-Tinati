@@ -16,6 +16,36 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<table>
+    <tr>
+        front end
+    </tr>
+    <tr>
+        <td>
+            html
+        </td>
+        <td>
+            <img style=" width: 100px;
+            height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" alt="">
+        </td>
+    <tr>
+        <td>
+           css
+        </td>
+        <td>
+            <img style=" width: 100px;
+            height: 100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="">
+        </td>
+    </tr>
+    <tr>
+        <td>
+           js
+        </td>
+        <td>
+            <img style=" width: 100px;
+            height: 100px;" src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="">
+        </td>
+    </tr>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohammadtinati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amruthpillai" /></a></p><br><br>
