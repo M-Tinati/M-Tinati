@@ -41,3 +41,4 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Support:</h3>
 <p><a href="https://coffeebede.ir/mohammadtinati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohammadtinati" /></a></p><br><br>
+<a href="https://coffeebede.ir/buycoffee/mohammadtinati"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
