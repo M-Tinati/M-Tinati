@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
-<h3 align="center">Python Developer . Data Scientist . front End developer.</h3>
+<h3 align="center">Python Developer. front End developer.</h3>
 
 - 👋 Hi, I’m @M-Tinati
 - 👀 I’m interested in python
