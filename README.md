@@ -2,8 +2,8 @@
 <h3 align="center">Python Developer. front End developer.</h3>
 
 - 👋 Hi, I’m @M-Tinati
-- 👀 I’m interested in python
-- 🌱 I’m currently learning Data Scientist
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : mohammad_tinati@yahoo.com
 
