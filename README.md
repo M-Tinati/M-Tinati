@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
-<h3 align="center">Python Developer. front End developer.</h3>
+<h3 align="center">Python Developer. front End developer. App Developer.</h3>
 
 - 👋 Hi, I’m @M-Tinati
 - 👀 I’m interested in ...
@@ -33,9 +33,18 @@ You can click the Preview link to take a look at your changes.
         <td>
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/800px-Unofficial_JavaScript_logo_2.svg.png" width="55" height="55"/> 
         </td>
-    </tr>
+    </tr><td>Dart</td>
+        <td>
+            <img src="https://avatars.githubusercontent.com/u/1609975?s=280&v=4" width="55" height="55"/> 
+        </td>
+        <td>Flutter</td>
+        <td>
+            <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="flutter" width="55" height="55"/> 
+        </td>
+    
     
 </table>
+
 
 
 
