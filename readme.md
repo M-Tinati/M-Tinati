@@ -2,16 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
 <h3 align="center">
-  AI specialist with expertise in Machine Learning, Deep Learning, and Computer Vision.  
-  Backend developer and Data Scientist focused on data analysis.
+  C# Developer. Backend developer with proficiency in Python and C++. Passionate about learning and implementing innovative solutions.
 </h3>
 
 <p align="center">
   <img alt="AI Image" width="400" src="https://www.meme-arsenal.com/memes/f01e066f070003a71762f8ae807d014c.jpg" />
 </p>
 
-- 🔭 I’m currently working on AI projects focused on Machine Learning and Deep Learning.  
-- 🌱 I’m currently learning advanced topics in AI, including Large Language Models (LLMs).
+🔭 I’m currently working on C# and .NET technologies.
+🌱 while also developing skills in Python and C++.
 
 ---
 
