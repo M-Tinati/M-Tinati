@@ -9,8 +9,8 @@
   <img alt="AI Image" width="400" src="https://www.meme-arsenal.com/memes/f01e066f070003a71762f8ae807d014c.jpg" />
 </p>
 
-🔭 I’m currently working on C# and .NET technologies.
-🌱 while also developing skills in Python and C++.
+<p>🔭 I’m currently working on C# and .NET technologies.</p>
+<p>🌱 while also developing skills in Python and C++.</p>
 
 ---
 
