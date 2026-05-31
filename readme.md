@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
 <h3 align="center">
-  C# Developer. Backend developer with proficiency in Python and C++. Passionate about learning and implementing innovative solutions.
+  .NET Developer. Backend developer with proficiency in Python and C++. Passionate about learning and implementing innovative solutions.
 </h3>
 
 <p align="center">
