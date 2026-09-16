@@ -2,18 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Mohammad Tinati</h1>
 <h3 align="center">
-  .NET Developer. Backend developer with proficiency in Python and C++. Passionate about learning and implementing innovative solutions.
+Python developer working with Artificial Intelligence, Machine Learning, Neural Networks, and Computer Vision. I also use Django for backend development and am currently learning C++.
 </h3>
 
 <p align="center">
   <img alt="AI Image" width="400" src="https://www.meme-arsenal.com/memes/f01e066f070003a71762f8ae807d014c.jpg" />
 </p>
-
-<p>🔭 I’m currently working on C# and .NET technologies.</p>
-<p>🌱 while also developing skills in Python and C++.</p>
+<h4>About Me</h4>
+<p>🔭 Working with Python, AI, Machine Learning & Computer Vision</p>
+<p>🌐 Building backend applications with Django</p>
+</p>🧠 Interested in Neural Networks & Deep Learning</p>
+</p>🌱 Currently learning C+</p>
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/tinati-mohammad" target="blank">
@@ -30,5 +31,36 @@
 
 <p align="center">
 
-  <img alt= "coding" width="400" src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif" >
+  <img alt="coding" width="400" src="https://raw.githubusercontent.com/gist/siddharth151199/14682974567534e7d396f6e7fa596696/raw/50cc1628f8918648b01d095dc027b9f81f0cba48/giphy.gif">
+</p>
+
+## 🛠️ Tech Stack
+
+### 🐍 Python & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+### 🤖 Machine Learning & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,numpy" />
+</p>
+
+`Machine Learning` • `Neural Networks` • `Computer Vision` • `Deep Learning`
+
+### 🌐 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgres,sqlite" />
+</p>
+
+### 🌱 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+**C++**
+
+### ⚙️ Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
